@@ -1,0 +1,29 @@
+h3{
+    color:green;  /* element selector */
+}
+
+p{
+    color:white;
+}
+button{
+    color:red;
+}
+body{
+    background-color: rgb(200,90,00);
+}
+
+button{
+    background-color: yellow;
+} 
+/*
+* {
+ color:pink
+
+} this is universal selector,make all font in same color */
+
+#heading2{
+    color:blueviolet;
+}
+.myclass{
+    color:magenta;
+}

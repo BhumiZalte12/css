@@ -1,0 +1,29 @@
+*{
+    padding: 0; 
+    margin: 0;
+ }
+.head{
+    background-color: crimson;
+    height: 300px;
+    font-style: initial;
+    text-align: center; 
+    font-size:70px;
+}
+#one{
+text-decoration: underline;
+font-size: 100px;
+/* padding-top: 20px; */
+padding-bottom: 20px;
+}
+#two{
+    color:yellow;
+    font-size:55px;
+
+}
+
+ /* p{
+    color: brown;
+    font-size: 20px;
+    text-align: center;
+
+} */
